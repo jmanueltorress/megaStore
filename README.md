@@ -1,2 +1,2 @@
-# megaStore
-store
+# tienda-online
+Diseño Tienda Online | HTML, CSS, JAVASCRIPT
